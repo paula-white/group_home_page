@@ -105,6 +105,7 @@ footer.page-footer {
 
 h1 {
     color: #33cccc;
+    font-size: 50px;
 }
 h5 {
     color: #33cccc;
@@ -113,7 +114,12 @@ h5 {
     font-size: 55px;
     font-weight: 900px;
     font-family: 'Sintony', sans-serif;
+  }
+h7 {
+  margin-left: 1000px;
+  font-size: 8px;
 }
+
 .bold {
     font-size: 30px;
     color: #1a1b31;
